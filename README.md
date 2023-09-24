@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">Bringing Ideas to Life Through Code</h3>
 
-- 🔭 I’m currently working on [LearnReact](https://github.com/pranjal-yadav05/LearnReact)
+- 🔭 I’m currently working on [ReactJS](ReactJS)
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
